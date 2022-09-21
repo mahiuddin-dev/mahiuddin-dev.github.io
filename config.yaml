@@ -1,4 +1,4 @@
-baseURL: 
+baseURL: "https://mahiuddin.me/"
 languageCode: en-us
 title: Md Mahiuddin | Backend Developer
 theme: hugo-profile
