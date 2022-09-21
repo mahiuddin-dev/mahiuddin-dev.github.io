@@ -1,0 +1,13 @@
+User-agent: *
+
+Disallow: /blogs/
+
+Disallow: /
+
+Disallow: /tags/
+
+Disallow: /tags/vs-code/
+
+Disallow: /blogs/vs-code-extension-which-helped-me-to-boost-my-productivity/
+
+Disallow: /categories/
