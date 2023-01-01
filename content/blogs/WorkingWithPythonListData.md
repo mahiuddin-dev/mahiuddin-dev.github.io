@@ -32,3 +32,31 @@ This means that once we assign objects to a (Tuple). The Tuple can not be change
 
 ## Working With List
 If you know any programming language you should heard about array. In python a list is like an array, in that we can think of a list as being an indexed collection of releted objects, with each slot in the list numbered from 0. In python list is dynamic. There are no need to predeclare the size of a list. List is also heterogeneous that means no need to predeclare the type of the objects where storing. We can store any kind of data in list. few secends ago we knew thta list is also mutable. 
+
+Before learning how to work with lists, let's spend some time learning how to spot lists in Python code.
+
+## Spot a list in Code
+In Python List are always enclosed in <b>square brackets</b>, and the object contained within the list are always separeted by a <b>comma</b>. When a list created where the objects are assigned to a new list directly in code. Python refer to this as a literal list, in that the list is created and populated in one go.
+
+## Creating Lists Literally
+Our First example Create a Empty List called <b>numbers</b>. And then assignig some data on this list.
+``` 
+numbers = []  
+numbers = [2,4,6,8]  
+```
+Let's create another list called <b>city</b>
+```
+city = ['Dinajpur', 'Rangpur', 'Dhaka']
+```
+Let's create another List where we store strings, float and integer in this example are all Python objects, so they can be stored in a list if needed.
+```
+laptop_details = ['HP', 'Ubuntu', 20.4, 2022]
+```
+We can put everything in a new list like:
+```
+everything = [numbers, city, laptop_details]
+```
+And this everything list output is like:
+```
+everything = [ [2,4,6,8], ['Dinajpur', 'Rangpur', 'Dhaka'], ['HP', 'Ubuntu', 20.4, 2022] ]
+```
