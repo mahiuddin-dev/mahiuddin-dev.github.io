@@ -58,7 +58,7 @@ params:
 
   theme:
     disableThemeToggle: false
-    # defaultTheme: "light" # dark
+    defaultTheme: "dark" # light
 
   # font:
   #   fontSize: 1.5rem # default: 1rem
@@ -131,7 +131,7 @@ params:
     image: "/images/me.png"
     content: |-
       I am a software developer with a passion for web development. I have a background in Civil technology and learnig Computer Science through CS50, Open Source Society University. I have a strong interest in the intersection of technology. 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I am currently working on a project that will be used to store managemengt.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
