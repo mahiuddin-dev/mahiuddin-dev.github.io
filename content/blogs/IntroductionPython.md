@@ -5,8 +5,9 @@ draft: false
 github_link: "https://github.com/mahiuddin-dev/"
 author: "Mahiuddin"
 # image: /images/blogs/
+slug: Introduction-to-Python-Programming
 tags:
-  - Sample
+  - Python
 description: "Python is a popular programming language that is used for a wide range of tasks. It is a powerful yet easy to learn language and can be used for everything from web development to data analysis."
 toc: 
 ---
