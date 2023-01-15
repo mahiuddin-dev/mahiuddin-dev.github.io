@@ -147,33 +147,33 @@ params:
 
   # Experience
   experience:
-    enable: false
+    enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "Software Developer"
+        company: "Kernel Coder Lab"
+        companyUrl: "#"
+        date: "Jan 2023 - present"
         featuredLink:
           enable: true
           name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+          url: "#"
+        content: "I am currently working as a software developer at Kernel Coder Lab in Rajshahi, Bangladesh."
 
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        info:
-          enable: true
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+      # - job: "Software Developer"
+      #   company: "Amazon"
+      #   companyUrl: "https://example.com"
+      #   date: "Sep 2020 - Dec 2021"
+      #   featuredLink:
+      #     enable: true
+      #     url: "https://example.com"
+      #   info:
+      #     enable: true
+      #     content: I worked as a software developer for more than one year in Amazon.
+      #   content: |
+      #     I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+      #     - Lead backend developer for a product.
+      #     - Created a frontend design for a product.
 
   # Education
   education:
