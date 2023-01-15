@@ -1,7 +1,7 @@
 ---
 title: "Working With Python List Data"
 date: 2022-10-06T15:49:22+06:00
-draft: true
+draft: false
 github_link: "https://github.com/mahiuddin-dev/"
 author: "Mahiuddin"
 # image: /images/blogs/
