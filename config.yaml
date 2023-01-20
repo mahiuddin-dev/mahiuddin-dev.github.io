@@ -109,7 +109,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/md-mahiuddin.pdf"
+      url: "https://drive.google.com/file/d/1eqO6Xv5jUTmrh5opZE16dfP4N2WDFxaS/view?usp=sharing"
       download: false 
     socialLinks:
       fontAwesomeIcons:
