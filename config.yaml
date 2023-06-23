@@ -150,6 +150,16 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - job: "Software Developer"
+        company: "Quickit24"
+        companyUrl: "https://quickit24.com/"
+        date: "Mar 2023 - present"
+        featuredLink:
+          enable: false
+          name: "View the project"
+          url: "#"
+        content: "I am currently working as a software developer and Project Manager at Quickit24 in Rajshahi, Bangladesh."
+
       - job: "Junior Software Developer (Intern)"
         company: "Kernel Coder Lab"
         companyUrl: "#"
@@ -159,18 +169,6 @@ params:
           name: "View the project"
           url: "#"
         content: "I am worked as a Intern at Kernel Coder Lab in Rajshahi, Bangladesh."
-        
-      - job: "Software Developer"
-        company: "Quickit24"
-        companyUrl: "quickit24.com"
-        date: "Mar 2023 - present"
-        featuredLink:
-          enable: false
-          name: "View the project"
-          url: "#"
-        content: "I am currently working as a software developer and Project Manager at Quickit24 in Rajshahi, Bangladesh."
-
-
 
       # - job: "Software Developer"
       #   company: "Amazon"
