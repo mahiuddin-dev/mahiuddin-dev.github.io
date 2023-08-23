@@ -6,7 +6,7 @@ github_link: "https://github.com/mahiuddin-dev/"
 author: "Mahiuddin"
 slug: python312-is-happening
 tags:
-  - VS Code
+  - Python
 description: Let's talk about the new features and upgrades as well as the deprecations in the new Python3.12..
 
 
