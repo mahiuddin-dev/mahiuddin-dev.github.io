@@ -9,7 +9,6 @@ tags:
   - Python
 description: Let's talk about the new features and upgrades as well as the deprecations in the new Python3.12..
 
-
 toc: 
 ---
 In this concise overview, we'll delve into Python 3.12 and its exciting new features. Additionally, I'll provide my personal insights on each enhancement or adjustment.
